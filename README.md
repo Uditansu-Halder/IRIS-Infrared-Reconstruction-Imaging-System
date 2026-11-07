@@ -10,8 +10,7 @@ Infrared-to-RGB image translation project.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Paired Thermal-to-Optical Translation Engine for Landsat Imagery using Conditional Generative Adversarial Networks (Pix2Pix)**  
-> *Developed for Smart India Hackathon (SIH)*  
-> **Team:** `I.R.I.S. — Infrared Radiance Iterative Spectral-enhancer`
+> `I.R.I.S. — Infrared Reconstruction Imaging System`
 
 ---
 
